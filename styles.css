@@ -1,0 +1,33 @@
+
+li {
+  height:60px;
+  width:220px;
+  border:2px solid blue;
+  float:left;
+  margin:140 px auto;
+  background-color: orange;
+
+}
+body{
+  background-image:url('image.jpg');
+}
+#box1{
+  height:150px;
+  width:960px;
+  border:2px solid green;
+  text-align: center;
+  margin:100px auto;
+  font-size: 2.5em;
+  background-color: darkgrey;
+  color:white;
+
+}
+.menu {
+  margin: 40px auto;
+}
+ul {
+  list-style-type:none;
+}
+/*#container{
+  font-size:2em;
+}*/
